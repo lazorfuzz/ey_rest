@@ -10,3 +10,5 @@ Once the server is running on port 5000, make a GET request to http://127.0.0.1:
 
 ## Docs
 Available [here](docs.md)
+
+To generate new docs, run `./updatedocs`
