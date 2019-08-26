@@ -1,0 +1,7 @@
+{
+  "name": "Lio REST API",
+  "description": "A Flask Restful app",
+  "repository": "https://github.com/lazorfuzz/donum_rest",
+  "logo": "http://www.unixstickers.com/image/cache/data/stickers/flask/Flask-logo.sh-600x600.png",
+  "keywords": ["Flask", "Python", "Rest API"]
+}
